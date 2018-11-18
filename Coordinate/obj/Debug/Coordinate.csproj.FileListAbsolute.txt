@@ -1,0 +1,7 @@
+c:\users\olive\documents\visual studio 2017\Projects\Coordinate\Coordinate\obj\Debug\Coordinate.csprojResolveAssemblyReference.cache
+c:\users\olive\documents\visual studio 2017\Projects\Coordinate\Coordinate\obj\Debug\Coordinate.csproj.CoreCompileInputs.cache
+c:\users\olive\documents\visual studio 2017\Projects\Coordinate\Coordinate\bin\Debug\Coordinate.exe.config
+c:\users\olive\documents\visual studio 2017\Projects\Coordinate\Coordinate\bin\Debug\Coordinate.exe
+c:\users\olive\documents\visual studio 2017\Projects\Coordinate\Coordinate\bin\Debug\Coordinate.pdb
+c:\users\olive\documents\visual studio 2017\Projects\Coordinate\Coordinate\obj\Debug\Coordinate.exe
+c:\users\olive\documents\visual studio 2017\Projects\Coordinate\Coordinate\obj\Debug\Coordinate.pdb
